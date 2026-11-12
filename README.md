@@ -15,7 +15,7 @@
 - Переписка с компаниями и поиск сообщений.
 - Общий аккаунт с сайтом КПшка.ру.
 
-Гостевой режим позволяет познакомиться с поиском. Контакты и документы доступны после регистрации с учётом прав аккаунта. Клиент скачивается бесплатно; функции онлайн-сервиса зависят от аккаунта, прав и действующих тарифов.
+Гостевой режим позволяет познакомиться с поиском. Контакты и документы доступны после регистрации с учётом прав аккаунта. Все функции приложения и платформы бесплатны, платных тарифов нет.
 
 ## Запуск
 
@@ -41,9 +41,11 @@
 
 Это публичная страница дистрибутивов проприетарного клиента. Исходный код приложения здесь не распространяется. EXE не содержит готового входа в компанию; сохранённая сессия хранится отдельно в профиле пользователя Windows.
 
-[Материалы для каталогов и редакций](https://kpshka.ru/downloads/windows/press/Kpshka-presskit.zip)
+[Актуальный PAD XML для каталогов](https://raw.githubusercontent.com/pynikov/kpshka-desktop-releases/main/PAD/Kpshka-Desktop.xml)
+
+Все функции приложения и платформы бесплатны; платных тарифов нет.
 
 ## English
 
-Kpshka Desktop is a Russian-language Windows client for Kpshka.ru, a tender search and business procurement platform. It provides advanced search filters, saved templates, favorites, procurement procedures and business messaging. Guest search is available; access to contacts, documents and restricted functions requires an eligible account. The proprietary client is free to download; online service features depend on account permissions and subscription terms. Windows 10/11 x64 and an internet connection are required. This repository distributes release binaries and product information.
+Kpshka Desktop is a Russian-language Windows client for Kpshka.ru, a tender search and business procurement platform. It provides advanced search filters, saved templates, favorites, procurement procedures and business messaging. Guest search is available; access to contacts, documents and restricted functions requires an eligible account. All application and platform features are free. There are no paid plans. Windows 10/11 x64 and an internet connection are required. This repository distributes release binaries and product information.
 
