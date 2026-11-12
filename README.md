@@ -49,3 +49,5 @@
 
 Kpshka Desktop is a Russian-language Windows client for Kpshka.ru, a tender search and business procurement platform. It provides advanced search filters, saved templates, favorites, procurement procedures and business messaging. Guest search is available; access to contacts, documents and restricted functions requires an eligible account. All application and platform features are free. There are no paid plans. Windows 10/11 x64 and an internet connection are required. This repository distributes release binaries and product information.
 
+
+[Каталоги программ и ссылки для размещения](CATALOGS.md)
